@@ -6,7 +6,10 @@
 
 从 0 到 1 的方法论、工具链、即用模板
 
-[首篇文章](docs/01-why-markdown.md) · [小红书文案](social/xiaohongshu/01.md) · [LICENSE](LICENSE)
+[![Stars](https://img.shields.io/github/stars/FIZZ-AI/md-bridge?style=flat-square)](https://github.com/FIZZ-AI/md-bridge/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
+
+[GitHub 仓库](https://github.com/FIZZ-AI/md-bridge) · [首篇文章](docs/01-why-markdown.md) · [小红书文案](social/xiaohongshu/01.md) · [LICENSE](LICENSE)
 
 </div>
 

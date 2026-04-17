@@ -171,6 +171,6 @@ Markdown 是纯文本，存在任何一个文件夹里都是你的。十年后 N
 
 接下来我会把这一整套实战，从 Obsidian 的配置，到 Agent 的接入，到每一种 `.md` 模板的设计，以开源项目的形式逐步公开。
 
-项目名叫 `md-bridge`。如果你也在探索自己的 AI 协作方式，可以一起搭这座桥。
+项目名叫 [`md-bridge`](https://github.com/FIZZ-AI/md-bridge)。如果你也在探索自己的 AI 协作方式，可以一起搭这座桥。
 
 —— FIZZ-AI
